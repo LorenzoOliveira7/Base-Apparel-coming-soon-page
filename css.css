@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+div.container{
+    width: 700px;
+    height: 635px;
+    
+}
+div.img{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 500px;
+    height: 635px;
+    margin: 0px 0px 0px 120px;
+}
+svg{
+    margin: 50px 0px 100px 120px;
+}
+h1{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    color:  hsl(0, 36%, 70%);
+    margin: 0px 0px 20px 115px;
+}
+H2{
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 60PX;
+    margin: 0PX 0px 30px 115px;
+    line-height: 30px;
+    color: hsl(0, 6%, 24%);
+}
+p{
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    color: hsl(0, 6%, 24%);
+    margin: 0px 0px 30px 115px;
+    line-height: 25px;
+}
+input{
+    width: 320px;
+    margin: 0px 0px 0px 115px;
+    height: 35px;
+    border-radius: 20px;
+    border:1px solid  hsla(0, 0%, 0%, 0.486);
+    
+}
+button{
+    height: 35px;
+    width: 40px;
+    margin: 0px 60px 0px 0px ;
+}
